@@ -67,10 +67,10 @@
                                 <exclude reference="DY1-MI-Zly"/>
                                 <exclude reference="bZp-CU-nOH"/>
                                 <exclude reference="uPH-aL-CWJ"/>
+                                <exclude reference="JP9-rh-ccp"/>
                                 <exclude reference="G08-sb-4Pz"/>
                                 <exclude reference="VKg-ci-64X"/>
                                 <exclude reference="s6E-9q-H4R"/>
-                                <exclude reference="JP9-rh-ccp"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular-widthClass=compact">
@@ -82,10 +82,10 @@
                                 <include reference="DY1-MI-Zly"/>
                                 <include reference="bZp-CU-nOH"/>
                                 <include reference="uPH-aL-CWJ"/>
+                                <include reference="JP9-rh-ccp"/>
                                 <include reference="G08-sb-4Pz"/>
                                 <include reference="VKg-ci-64X"/>
                                 <include reference="s6E-9q-H4R"/>
-                                <include reference="JP9-rh-ccp"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular-widthClass=regular">
@@ -97,10 +97,10 @@
                                 <include reference="DY1-MI-Zly"/>
                                 <include reference="bZp-CU-nOH"/>
                                 <include reference="uPH-aL-CWJ"/>
+                                <include reference="JP9-rh-ccp"/>
                                 <include reference="G08-sb-4Pz"/>
                                 <include reference="VKg-ci-64X"/>
                                 <include reference="s6E-9q-H4R"/>
-                                <include reference="JP9-rh-ccp"/>
                             </mask>
                         </variation>
                     </view>
